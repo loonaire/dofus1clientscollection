@@ -1,12 +1,95 @@
-<div align="center"><h1><b>Dofus 1 clients collection</b></h1></div>
+<div align="center"><h1><b>Les clients dofus</b></h1></div>
 
 ## Informations
 
 Inspirée de [Dofedex](https://github.com/dofera/dofedex), cette page a pour but de répertorier les clients de dofus 1. Contrairement à Dofedex Je ne souhaite ajoutée que des versions complète des clients de jeu, j'ai également retiré les liens vers les changelog qui ont leur page [ici](https://loonaire.github.io/dofushistory/dofus/changelogs/index.html).  
-Tous les liens dirigent vers un google drive qui héberge tous les fichier.
+Tous les liens dirigent vers un google drive qui héberge tous les fichiers.  
 
+Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines versions contiennent les fichiers lang associés, les fichiers langs d'une version peuvent être utilisés sans problème sur une version précédente (ou suivante). les versions partagées sont en priorités les versions classiques qui sont plus légères que les versions remastered.
 
 ## Clients
+
+| Version | Lien | Méthode d'obtention |
+| - | - | - |
+| 1.40.6 | [Download](https://drive.google.com/file/d/1n6orDEVB9fwXTDsy7TBmDCuTXmncbIg1/view?usp=sharing) |
+| 1.40.5 | [Download](https://drive.google.com/file/d/1MLs8YzWXHeGyOESmO1aJjLuHnT8GjYNj/view?usp=sharing) ||
+| 1.40.4 |||
+| 1.40.3 |||
+| 1.40.2 |||
+| 1.40.1 | [Download](https://drive.google.com/file/d/1V1mePmlSYhInneCiDe614u_yYeCoKMYR/view?usp=sharing) ||
+| 1.40.0 |||
+| 1.39.9 | [Download](https://drive.google.com/file/d/1NtkpzE4X6GU-brsMLfepHBPgxeWZC7bv/view?usp=sharing) | |
+| 1.39.8 | [Download](https://drive.google.com/file/d/1zrjOgRg2_1QDKi9Rf7JLAvnlYjZC5TSS/view?usp=sharing) | Version remastered |
+| 1.39.7 | Download |
+| 1.39.6 | Download |
+| 1.39.5 | Download |
+| 1.39.4 | Download |
+| 1.39.3 | Download |
+| 1.39.2 | Download |
+| 1.39.1 | Download |
+| 1.39.0 | Download |
+| 1.38.7 | Download |
+| 1.38.6 | Download |
+| 1.38.5 | Download |
+| 1.38.4 | Download |
+| 1.38.3 | Download |
+| 1.38.2 | Download |
+| 1.38.1 | Download |
+| 1.38.0 | Download |
+| 1.37.10 | [Download](https://drive.google.com/file/d/16Mwx2hFfIDR83y8vMGPGVJrESA-0pVzC/view?usp=sharing) |
+| 1.37.9 | Download |
+| 1.37.8 | Download |
+| 1.37.7 | [Download](https://drive.google.com/file/d/1G-oQ6_P1E0SyVH7R111BRrnDzh1Oi9LH/view?usp=sharing) |
+| 1.37.6 | Download |
+| 1.37.5 | Download |
+| 1.37.4 | Download |
+| 1.37.3 | Download |
+| 1.37.2 | Download |
+| 1.37.1 | Download |
+| 1.37.0 | Download |
+| 1.36.7 | Download |
+| 1.36.6 | Download |
+| 1.36.5 | Download |
+| 1.36.4 | Download |
+| 1.36.3 | Download |
+| 1.36.2 | Download |
+| 1.36.1 | Download |
+| 1.36.0 | Download |
+| 1.35.5 | Download |
+| 1.35.4 | Download |
+| 1.35.1 | Download |
+| 1.35.0 | Download |
+| 1.34.13 | Download |
+| 1.34.12 | Download |
+| 1.34.11 | Download |
+| 1.34.6 | Download |
+| 1.34.5 | Download |
+| 1.34.4 | Download |
+| 1.34.3 | Download |
+| 1.34.2 | Download |
+| 1.34.1 | Download |
+| 1.34.0 | Download |
+| 1.33.6 | [Download](https://drive.google.com/file/d/1xuhDMand7XM51idPnE6dNO_EuQjbF_wL/view?usp=sharing) | Version linux (désarchivable avec 7zip), possible de le lancer sur windows
+| 1.33.5 | Download |
+| 1.33.4 | Download |
+| 1.33.3 | Download |
+| 1.33.2 | Download |
+| 1.33.1 | Download |
+| 1.33.0 | Download |
+| 1.32.1 | Download |
+| 1.32.0 | Download |
+| 1.31.3 | Download |
+| 1.31.2 | Download |
+| 1.31.0| Download |
+| 1.30.21 | Download |
+| 1.30.18 | Download |
+| 1.30.17 | Download |  
+| 1.30.14 | Download |
+| 1.30.10 | Download |
+| 1.30.9 | Download |
+| 1.30.0 | Download |
+
+
 
 | Version | Lien | Méthode d'obtention |
 | - | - | - | 
