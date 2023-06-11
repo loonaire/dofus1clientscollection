@@ -109,7 +109,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.19.0 | [Download](https://drive.google.com/file/d/1A1cLMSn827Oyg_Dhlwpva-0bsG6uij1Z/view?usp=sharing) | Installateur officiel
 | 1.18.3 (beta) | Download |
 | 1.18.2 | [Download](https://drive.google.com/file/d/1q8gU0kbVEfOb9btC_lDN6EyvuYGfuSlx/view?usp=sharing) | Installateur officiel
-| 1.18.1 | [Download](https://drive.google.com/file/d/1fgpsTSQpMguVE6Txm1ZckuS8GWQhJTEB/view?usp=sharing) | Obtenu via la version 1.17.1 update vers la 1.18.0 puis 1.18.1 ([Patch 1.18.0 vers 1.18.1](https://drive.google.com/file/d/1xsIAt0hK0YooU8r6FI_OU0h6licdItNb/view?usp=sharing)|
+| 1.18.1 | [Download](https://drive.google.com/file/d/1fgpsTSQpMguVE6Txm1ZckuS8GWQhJTEB/view?usp=sharing) | Obtenu via la version 1.17.1 update vers la 1.18.0 puis 1.18.1 ([Patch 1.18.0 vers 1.18.1](https://drive.google.com/file/d/1xsIAt0hK0YooU8r6FI_OU0h6licdItNb/view?usp=sharing))|
 | 1.18.0 | [Download](https://drive.google.com/file/d/1-tCRC12x7IFf4aCRf17P7O0sO6poSOqJ/view?usp=sharing) | Obtenu via la version 1.17.1 et l'update 1.17.X vers 1.18.0 disponible [ici](https://drive.google.com/file/d/1ec24_tNOA2J2DbIFMEFpE0VzvOOIbPO5/view?usp=sharing) |
 | 1.17.1 | [Download](https://drive.google.com/file/d/1AcjOBf4vEOE4CuQ69efNeCvZ6X-q22sX/view?usp=sharing) | Intallateur officiel
 | 1.17.0 | [Download](https://drive.google.com/file/d/1bjNEW4vguVjsofo-HIoOoDQFO0DP6SZc/view?usp=sharing) | Installateur officiel
