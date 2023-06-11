@@ -13,11 +13,11 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | - | - | - |
 | 1.40.6 | [Download](https://drive.google.com/file/d/1n6orDEVB9fwXTDsy7TBmDCuTXmncbIg1/view?usp=sharing) |
 | 1.40.5 | [Download](https://drive.google.com/file/d/1MLs8YzWXHeGyOESmO1aJjLuHnT8GjYNj/view?usp=sharing) ||
-| 1.40.4 |||
-| 1.40.3 |||
-| 1.40.2 |||
+| 1.40.4 | Download ||
+| 1.40.3 | Download ||
+| 1.40.2 | Download ||
 | 1.40.1 | [Download](https://drive.google.com/file/d/1V1mePmlSYhInneCiDe614u_yYeCoKMYR/view?usp=sharing) ||
-| 1.40.0 |||
+| 1.40.0 | Download ||
 | 1.39.9 | [Download](https://drive.google.com/file/d/1NtkpzE4X6GU-brsMLfepHBPgxeWZC7bv/view?usp=sharing) | |
 | 1.39.8 | [Download](https://drive.google.com/file/d/1zrjOgRg2_1QDKi9Rf7JLAvnlYjZC5TSS/view?usp=sharing) | Version remastered |
 | 1.39.7 | Download |
