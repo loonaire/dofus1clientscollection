@@ -198,6 +198,7 @@ Voici les noms des fichiers pour identifier les installer et fichier zip origina
 - Fichier d'installation après la 1.9: DofusInstaller_v1_VERSION_SUBVERSION.exe
 - Fichier de patch: DofusPatch_v1_VERSION_SUBVERSION_to_v1_VERSION_SUBVERSION.exe
 
+> A partir de la version 1.25.0, l'installer ne fait qu'installer l'uplauncher.
 
 ## Contribution
 
