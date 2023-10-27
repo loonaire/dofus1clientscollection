@@ -11,6 +11,8 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 
 | Version | Lien | Méthode d'obtention |
 | - | - | - |
+| 1.41.6 | [Download](https://drive.google.com/file/d/1ZHHbMgg2OoBaJciJMamTdX_r1DwLA1xW/view?usp=sharing) |
+| 1.41.5 | [Download](https://drive.google.com/file/d/1yjEx_oLnFbivFLqg_Lw9ucpjBUZO3crP/view?usp=sharing) |
 | 1.41.2 | [Download](https://drive.google.com/file/d/1xjl7FYfKwM3eoV3Zmy3zKU9vaY1XwFUV/view?usp=sharing) ||
 | 1.41.1 | Download ||
 | 1.41.0 | Download ||
@@ -124,7 +126,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.17.0 | [Download](https://drive.google.com/file/d/1bjNEW4vguVjsofo-HIoOoDQFO0DP6SZc/view?usp=sharing) | Installateur officiel
 | 1.17.0 | [Download](https://drive.google.com/file/d/1hPuvMwEIvbxUJSBN8Td6F4sHrbf5LVCb/view?usp=sharing) | Version zip officielle
 | 1.16.4 | [Download](https://drive.google.com/file/d/1v3z1pmdqoBXF1OjbWeRh8y-iNXTSYuPY/view?usp=sharing) | Version linux/mac zip officielle |
-| 1.16.3 | Download |
+| 1.16.3 | [Download](https://drive.google.com/file/d/1arJbSxxSbrzLwFIwjBwGp1zN7CDBubfP/view?usp=sharing) | Obtenue via installation de la 1.16.2 puis update vers la 1.16.3 via [ce path](https://drive.google.com/file/d/1JLCfl4EZwAIfUlzcWkpXU_u3q7SwjuRS/view?usp=sharing) |
 | 1.16.2 | [Download](https://drive.google.com/file/d/1kx6CsVbU5HXw2-E1GFY12YhAM2j3CR-6/view?usp=sharing) | Installateur officiel |
 | 1.16.1 (beta) | Download |
 | 1.16.0 (beta) | Download |
