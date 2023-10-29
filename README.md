@@ -105,10 +105,10 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | Version | Lien | Méthode d'obtention |
 | - | - | - | 
 | 1.29.1 | [Download](https://drive.google.com/file/d/14dbJskSyNN6tSnNO6V5bSJDPjOphvJZN/view?usp=sharing) | Paquet linux .deb officiel, contient .exe, [version extraite du paquet](https://drive.google.com/file/d/13PbVViP35gPYdZ7L6F_tHtW1WNTUSHly/view?usp=sharing) | 
-| 1.29.0 | [Download](https://drive.google.com/file/d/1J_RR1D0rjo3YiRl6mxFclCke07Dl9bSF/view?usp=sharing) | Archive linux/Max officelle |
+| 1.29.0 | [Download](https://drive.google.com/file/d/1J_RR1D0rjo3YiRl6mxFclCke07Dl9bSF/view?usp=sharing) | Archive linux/Mac officelle |
 | 1.28.0 | Download |
 | 1.27.1 | Download |
-| 1.27.0 | [Download](https://drive.google.com/file/d/1llxmkK5aqV2FsqhsxPE_hgzDHot0tKzu/view?usp=sharing) | Client Mac/linux officiel
+| 1.27.0 | [Download](https://drive.google.com/file/d/1llxmkK5aqV2FsqhsxPE_hgzDHot0tKzu/view?usp=sharing) | Client Mac/linux officiel |
 | 1.26.0 | Download |
 | 1.25.0 | Download |
 | 1.24.0 | [Download](https://drive.google.com/file/d/1Q-f_gZ2WefGzSRoJC8aZoFdxzOU6mnF1/view?usp=sharing) | Installateur officiel |
