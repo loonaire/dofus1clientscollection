@@ -125,7 +125,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.17.1 | [Download](https://drive.google.com/file/d/1AcjOBf4vEOE4CuQ69efNeCvZ6X-q22sX/view?usp=sharing) | Intallateur officiel
 | 1.17.0 | [Download](https://drive.google.com/file/d/1bjNEW4vguVjsofo-HIoOoDQFO0DP6SZc/view?usp=sharing) | Installateur officiel
 | 1.17.0 | [Download](https://drive.google.com/file/d/1hPuvMwEIvbxUJSBN8Td6F4sHrbf5LVCb/view?usp=sharing) | Version zip officielle
-| 1.16.4 | [Download](https://drive.google.com/file/d/1v3z1pmdqoBXF1OjbWeRh8y-iNXTSYuPY/view?usp=sharing) | Version linux/mac zip officielle |
+| 1.16.4 | [Download](https://drive.google.com/file/d/1v3z1pmdqoBXF1OjbWeRh8y-iNXTSYuPY/view?usp=sharing) | Version linux/mac zip officiel |
 | 1.16.3 | [Download](https://drive.google.com/file/d/1arJbSxxSbrzLwFIwjBwGp1zN7CDBubfP/view?usp=sharing) | Obtenu via installation de la 1.16.2 puis update vers la 1.16.3 via [ce path](https://drive.google.com/file/d/1JLCfl4EZwAIfUlzcWkpXU_u3q7SwjuRS/view?usp=sharing) |
 | 1.16.2 | [Download](https://drive.google.com/file/d/1kx6CsVbU5HXw2-E1GFY12YhAM2j3CR-6/view?usp=sharing) | Installateur officiel |
 | 1.16.1 (beta) | Download |
@@ -211,6 +211,45 @@ Voici les noms des fichiers pour identifier les installer et fichier zip origina
 
 > A partir de la version 1.25.0, l'installer ne fait qu'installer l'uplauncher.
 
-## Contribution
+## Les clients que je recherche
+
+Il me manque encore les clients suivant
+
+### Versions beta
+- v1b
+- v2b
+- v3b
+- v4b
+- v5bb
+- v6b
+- v8b
+- v9b et v9.1b
+
+### Versions 1.0
+- 1.2
+- 1.3
+- 1.4
+- 1.5
+- 1.6
+- 1.7
+- 1.8
+- 1.9
+- 1.10
+- 1.11
+- 1.12
+- 1.13.1 et 1.13.2
+- 1.14.0 1.14.1 1.14.2
+- 1.15 (toutes les version de 1.15.0 à 1.15.4)
+- 1.16 betas et 1.16.3 et 1.16.4 version installer
+- 1.18.0 t 1.18.1 version zip et installer
+- 1.21.1 zip ou installer
+- 1.22 zip ou installer
+- 1.25 zip
+- 1.26 zip
+- 1.27.1 zip
+- 1.28 zip
+
+
+## Contribuer
 
 Pour contribuer, vous pouvez m'envoyer les clients ou fichier manquant via twiter @loonaire, via Discord: @loonaire et l'adresse mail du Google Drive: loonairefr@gmail.com.
