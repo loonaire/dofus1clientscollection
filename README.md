@@ -149,7 +149,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.12.0 | Download |
 | 1.11.1 | Download |
 | 1.11.0 | Download |
-| 1.10.0 | [Download](https://drive.google.com/file/d/1-SUR22vNXLfgBSnONr72RFLYV8oaBNmr/view?usp=sharing) | Archive sit mac officielle [Version zip](https://drive.google.com/file/d/1nW8JSPARF3EnSxJlWfLE0l41siVWOf7Z/view?usp=sharing) |
+| 1.10.0 | [Download](https://drive.google.com/file/d/1-SUR22vNXLfgBSnONr72RFLYV8oaBNmr/view?usp=sharing) | Archive sit mac officielle [Version zip](https://drive.google.com/file/d/1U_cURmy7-YZIP9LGlLU1C7OvVQL2a46r/view?usp=sharing) |
 | 1.9.1 | [Download](https://drive.google.com/file/d/1Kzfn4AIV6aXot-yMzeXIWwhR0peA1cm_/view?usp=sharing) | Archive officielle de la version windows | 
 | 1.9.0 | Download |
 | 1.8.0 | Download |
