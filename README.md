@@ -111,7 +111,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.27.1 | Download |
 | 1.27.0 | [Download](https://drive.google.com/file/d/1llxmkK5aqV2FsqhsxPE_hgzDHot0tKzu/view?usp=sharing) | Client Mac/linux officiel |
 | 1.26.0 | Download |
-| 1.25.0 | Download |
+| 1.25.0 | [Download](https://drive.google.com/file/d/1EQdgG7gDzoKfRNw3aneXqfPigl6XWgS9/view?usp=sharing) | Zip Mac OS officiel (fichier extrait du cd du magazine Mac Format UK 202, disponible sur archive.org ou [ici](https://discmaster.textfiles.com/search?q=dofus) |
 | 1.24.0 | [Download](https://drive.google.com/file/d/1Q-f_gZ2WefGzSRoJC8aZoFdxzOU6mnF1/view?usp=sharing) | Installateur officiel |
 | 1.23.0 | [Download](https://drive.google.com/file/d/1nTRvM4co8qVqjYkB6UjRw-GAp-apFlB6/view?usp=sharing) | Installateur officiel |
 | 1.22.0 | [Download](https://drive.google.com/file/d/1jo1oFJMjtqECHsSZZOEacQxVWzudKXnt/view?usp=sharing) | Installation du client 1.21.0 puis mise à jour avec [ce patch](https://drive.google.com/file/d/18Iv-6gHuQNJzzb-uTDNCGyvwsLodG1s4/view?usp=sharing) |
