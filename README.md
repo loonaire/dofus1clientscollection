@@ -244,10 +244,10 @@ Il me manque encore les clients suivant
 - 1.18.0 t 1.18.1 version zip et installer
 - 1.21.1 zip ou installer
 - 1.22 zip ou installer
-- 1.25 zip
 - 1.26 zip
 - 1.27.1 zip
 - 1.28 zip
+- toutes les versions 1.2x beta
 
 
 ## Contribuer
