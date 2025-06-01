@@ -131,7 +131,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.16.2 | [Download](https://drive.google.com/file/d/1kx6CsVbU5HXw2-E1GFY12YhAM2j3CR-6/view?usp=sharing) | Installateur officiel |
 | 1.16.1 (beta) | Download |
 | 1.16.0 (beta) | Download |
-| 1.15.4 | Download |
+| 1.15.4 | [Download](https://drive.google.com/file/d/115OWwoWGIQNUMwt_dxr7saSpnxSSdVf-/view?usp=sharing) | Installateur officiel, [origine du fichier](https://archive.org/details/MBHH07) |
 | 1.15.3 | Download |
 | 1.15.2 | Download |
 | 1.15.1 | Download |
