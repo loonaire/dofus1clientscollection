@@ -115,7 +115,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.24.0 | [Download](https://drive.google.com/file/d/1Q-f_gZ2WefGzSRoJC8aZoFdxzOU6mnF1/view?usp=sharing) | Installateur officiel |
 | 1.23.0 | [Download](https://drive.google.com/file/d/1nTRvM4co8qVqjYkB6UjRw-GAp-apFlB6/view?usp=sharing) | Installateur officiel |
 | 1.22.0 | [Download](https://drive.google.com/file/d/1jo1oFJMjtqECHsSZZOEacQxVWzudKXnt/view?usp=sharing) | Installation du client 1.21.0 puis mise à jour avec [ce patch](https://drive.google.com/file/d/18Iv-6gHuQNJzzb-uTDNCGyvwsLodG1s4/view?usp=sharing) |
-| 1.21.1 | [Download](https://drive.google.com/file/d/1myfWBGgjg48ZpK87liYN_TW6n-p5KQGH/view?usp=sharing) | Mise à jour de la 1.21.0 avec [ce patch](https://drive.google.com/file/d/1mEVbOZw06t1vnupi6B8FsZjcus3qemZv/view?usp=sharing) |
+| 1.21.1 | [Download](https://drive.google.com/file/d/1WaJ4dzSdWjxXXLTWb2QelKALelNb8oBF/view?usp=sharing) | Installateur officiel 
 | 1.21.0 | [Download](https://drive.google.com/file/d/1sXKJv6F1BxSwxdXBvG0OceF2r5rcEG1L/view?usp=sharing) | Installateur officiel
 | 1.20.0 | [Download](https://drive.google.com/file/d/1Ivc67HNOqoeuLjEBh4ve4Iropfe9JOg_/view?usp=sharing) | Installateur officiel
 | 1.19.0 | [Download](https://drive.google.com/file/d/1A1cLMSn827Oyg_Dhlwpva-0bsG6uij1Z/view?usp=sharing) | Installateur officiel
@@ -242,7 +242,6 @@ Il me manque encore les clients suivant
 - 1.15 (toutes les versions beta et officielles de 1.15.0 à 1.15.3)
 - 1.16 betas et 1.16.3 et 1.16.4 version installer
 - 1.18.0 t 1.18.1 version zip et installer
-- 1.21.1 zip ou installer
 - 1.22 zip ou installer
 - 1.26 zip
 - 1.27.1 zip
