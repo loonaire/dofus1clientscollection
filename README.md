@@ -146,7 +146,7 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.13.2 | Download |
 | 1.13.1 | Download |
 | 1.13.0 | [Download](https://drive.google.com/file/d/16Qza5jbP9Jxyi0yCp7_4lfooK5b5I_-x/view?usp=sharing) | Installateur officiel |
-| 1.12.0 | Download |
+| 1.12.0 | [Download](https://drive.google.com/file/d/1PIqFoc0uvc_3AVmnAFgJRZeNqAnhsUB2/view?usp=sharing) | Archive officiel du backup de fileplanet (merci à Spriingy) |
 | 1.11.1 | Download |
 | 1.11.0 | Download |
 | 1.10.0 | [Download](https://drive.google.com/file/d/1-SUR22vNXLfgBSnONr72RFLYV8oaBNmr/view?usp=sharing) | Archive sit mac officielle [Version zip](https://drive.google.com/file/d/1U_cURmy7-YZIP9LGlLU1C7OvVQL2a46r/view?usp=sharing) |
@@ -227,7 +227,6 @@ Il me manque encore les clients suivant
 - v9b et v9.1b
 
 ### Versions 1.0
-- 1.2
 - 1.3
 - 1.4
 - 1.5
@@ -235,13 +234,12 @@ Il me manque encore les clients suivant
 - 1.7
 - 1.8
 - 1.9.0
-- 1.11
-- 1.12
+- 1.11.0 et 1.11.1
 - 1.13.1 et 1.13.2
 - 1.14.0 1.14.1 1.14.2
 - 1.15 (toutes les versions beta et officielles de 1.15.0 à 1.15.3)
 - 1.16 betas et 1.16.3 et 1.16.4 version installer
-- 1.18.0 t 1.18.1 version zip et installer
+- 1.18.0 et 1.18.1 version zip et installer
 - 1.22 zip ou installer
 - 1.26 zip
 - 1.27.1 zip
