@@ -15,93 +15,17 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.41.6 | [Download](https://drive.google.com/file/d/1ZHHbMgg2OoBaJciJMamTdX_r1DwLA1xW/view?usp=sharing) |
 | 1.41.5 | [Download](https://drive.google.com/file/d/1yjEx_oLnFbivFLqg_Lw9ucpjBUZO3crP/view?usp=sharing) |
 | 1.41.2 | [Download](https://drive.google.com/file/d/1xjl7FYfKwM3eoV3Zmy3zKU9vaY1XwFUV/view?usp=sharing) ||
-| 1.41.1 | Download ||
-| 1.41.0 | Download ||
 | 1.40.13| [Download](https://drive.google.com/file/d/1lgIdGXqJ3vx_hEBR8ZHctpsFpRgoCGSZ/view?usp=sharing) ||
-| 1.40.12| Download ||
-| 1.40.11| Download ||
-| 1.40.10| Download ||
 | 1.40.9 | [Download](https://drive.google.com/file/d/1U0dpXjDS4e5guCv_p3kOS6k5XsXuQ-VI/view?usp=sharing) ||
 | 1.40.8 | [Download](https://drive.google.com/file/d/1hN0G7x8qvBrSVgwtiNDKTeH0OY4M_vYV/view?usp=sharing) |
 | 1.40.6 | [Download](https://drive.google.com/file/d/1n6orDEVB9fwXTDsy7TBmDCuTXmncbIg1/view?usp=sharing) |
 | 1.40.5 | [Download](https://drive.google.com/file/d/1MLs8YzWXHeGyOESmO1aJjLuHnT8GjYNj/view?usp=sharing) ||
-| 1.40.4 | Download ||
-| 1.40.3 | Download ||
-| 1.40.2 | Download ||
 | 1.40.1 | [Download](https://drive.google.com/file/d/1V1mePmlSYhInneCiDe614u_yYeCoKMYR/view?usp=sharing) ||
-| 1.40.0 | Download ||
 | 1.39.9 | [Download](https://drive.google.com/file/d/1NtkpzE4X6GU-brsMLfepHBPgxeWZC7bv/view?usp=sharing) | |
 | 1.39.8 | [Download](https://drive.google.com/file/d/1zrjOgRg2_1QDKi9Rf7JLAvnlYjZC5TSS/view?usp=sharing) | Version remastered |
-| 1.39.7 | Download |
-| 1.39.6 | Download |
-| 1.39.5 | Download |
-| 1.39.4 | Download |
-| 1.39.3 | Download |
-| 1.39.2 | Download |
-| 1.39.1 | Download |
-| 1.39.0 | Download |
-| 1.38.7 | Download |
-| 1.38.6 | Download |
-| 1.38.5 | Download |
-| 1.38.4 | Download |
-| 1.38.3 | Download |
-| 1.38.2 | Download |
-| 1.38.1 | Download |
-| 1.38.0 | Download |
 | 1.37.10 | [Download](https://drive.google.com/file/d/16Mwx2hFfIDR83y8vMGPGVJrESA-0pVzC/view?usp=sharing) |
-| 1.37.9 | Download |
-| 1.37.8 | Download |
 | 1.37.7 | [Download](https://drive.google.com/file/d/1G-oQ6_P1E0SyVH7R111BRrnDzh1Oi9LH/view?usp=sharing) |
-| 1.37.6 | Download |
-| 1.37.5 | Download |
-| 1.37.4 | Download |
-| 1.37.3 | Download |
-| 1.37.2 | Download |
-| 1.37.1 | Download |
-| 1.37.0 | Download |
-| 1.36.7 | Download |
-| 1.36.6 | Download |
-| 1.36.5 | Download |
-| 1.36.4 | Download |
-| 1.36.3 | Download |
-| 1.36.2 | Download |
-| 1.36.1 | Download |
-| 1.36.0 | Download |
-| 1.35.5 | Download |
-| 1.35.4 | Download |
-| 1.35.1 | Download |
-| 1.35.0 | Download |
-| 1.34.13 | Download |
-| 1.34.12 | Download |
-| 1.34.11 | Download |
-| 1.34.6 | Download |
-| 1.34.5 | Download |
-| 1.34.4 | Download |
-| 1.34.3 | Download |
-| 1.34.2 | Download |
-| 1.34.1 | Download |
-| 1.34.0 | Download |
 | 1.33.6 | [Download](https://drive.google.com/file/d/1xuhDMand7XM51idPnE6dNO_EuQjbF_wL/view?usp=sharing) | Version linux (désarchivable avec 7zip), possible de le lancer sur windows
-| 1.33.5 | Download |
-| 1.33.4 | Download |
-| 1.33.3 | Download |
-| 1.33.2 | Download |
-| 1.33.1 | Download |
-| 1.33.0 | Download |
-| 1.32.1 | Download |
-| 1.32.0 | Download |
-| 1.31.3 | Download |
-| 1.31.2 | Download |
-| 1.31.0| Download |
-| 1.30.21 | Download |
-| 1.30.18 | Download |
-| 1.30.17 | Download |  
-| 1.30.14 | Download |
-| 1.30.10 | Download |
-| 1.30.9 | Download |
-| 1.30.0 | Download |
-
-
 
 | Version | Lien | Méthode d'obtention |
 | - | - | - | 
