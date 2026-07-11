@@ -120,8 +120,8 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.20.0 | [Download](https://drive.google.com/file/d/1Ivc67HNOqoeuLjEBh4ve4Iropfe9JOg_/view?usp=sharing) | Installateur officiel
 | 1.19.0 | [Download](https://drive.google.com/file/d/1A1cLMSn827Oyg_Dhlwpva-0bsG6uij1Z/view?usp=sharing) | Installateur officiel
 | 1.18.3 (beta) | Download |
-| 1.18.2 | [Download](https://drive.google.com/file/d/1q8gU0kbVEfOb9btC_lDN6EyvuYGfuSlx/view?usp=sharing) | Installateur officiel
-| 1.18.1 | [Download](https://drive.google.com/file/d/1fgpsTSQpMguVE6Txm1ZckuS8GWQhJTEB/view?usp=sharing) | Obtenu via la version 1.17.1 update vers la 1.18.0 puis 1.18.1 ([Patch 1.18.0 vers 1.18.1](https://drive.google.com/file/d/1xsIAt0hK0YooU8r6FI_OU0h6licdItNb/view?usp=sharing))|
+| 1.18.2 | [Download](https://drive.google.com/file/d/1q8gU0kbVEfOb9btC_lDN6EyvuYGfuSlx/view?usp=sharing) | Installateur officiel |
+| 1.18.1 | [Download](https://drive.google.com/file/d/14pJn8sNGJUbctKlemcHWcfFZLi95Xinf/view?usp=sharing) | Installateur officiel |
 | 1.18.0 | [Download](https://drive.google.com/file/d/1-tCRC12x7IFf4aCRf17P7O0sO6poSOqJ/view?usp=sharing) | Obtenu via la version 1.17.1 et l'update 1.17.X vers 1.18.0 disponible [ici](https://drive.google.com/file/d/1ec24_tNOA2J2DbIFMEFpE0VzvOOIbPO5/view?usp=sharing) |
 | 1.17.1 | [Download](https://drive.google.com/file/d/1AcjOBf4vEOE4CuQ69efNeCvZ6X-q22sX/view?usp=sharing) | Intallateur officiel
 | 1.17.0 | [Download](https://drive.google.com/file/d/1bjNEW4vguVjsofo-HIoOoDQFO0DP6SZc/view?usp=sharing) | Installateur officiel
@@ -132,24 +132,24 @@ Pour Dofus Rétro, les fichiers sont ceux installés par le launcher, certaines 
 | 1.16.1 (beta) | Download |
 | 1.16.0 (beta) | Download |
 | 1.15.4 | [Download](https://drive.google.com/file/d/115OWwoWGIQNUMwt_dxr7saSpnxSSdVf-/view?usp=sharing) | Installateur officiel, [origine du fichier](https://archive.org/details/MBHH07) |
-| 1.15.3 | Download |
-| 1.15.2 | Download |
-| 1.15.1 | Download |
-| 1.15.0 | Download |
-| 1.14.2 | Download |
-| 1.14.1 | Download |
-| 1.14.0 | Download |
+| 1.15.3 | [Download](https://drive.google.com/file/d/1ipNorEovdyLZTRgTnzBUdX7hNGsiebOC/view?usp=sharing) | Installateur officiel |
+| 1.15.2 | [Download](https://drive.google.com/file/d/1Ym9dO2Su586-XGJqi4_34riSSE3oZTxz/view?usp=sharing) | Installateur officiel |
+| 1.15.1 Beta | [Download](https://drive.google.com/file/d/1ttHbnB6J7shbhC15QUtb8ayc1MwUVtyB/view?usp=sharing) | Installateur officiel |
+| 1.15.0 Beta | [Download](https://drive.google.com/file/d/1lSbijp9uUIZXd4SUn45xKmsLM31XX3YZ/view?usp=sharing) | Installateur officiel |
+| 1.14.2 | [Download](https://drive.google.com/file/d/1HikxvPT6dD-LMehJx0EJMzEgkRl26dWX/view?usp=sharing) | Installateur officiel |
+| 1.14.1 | [Download](https://drive.google.com/file/d/1WxevWbduwM6knrtaaPW6bGn2xTDafrMx/view?usp=sharing) | Installateur officiel |
+| 1.14.0 | [Download](https://drive.google.com/file/d/1eC287NlX8lr-80IObnTav67qyPNOqEiG/view?usp=sharing) | Installateur officiel |
 
 
 | Version | Lien | Méthode d'obtention |
 | - | - | - |
-| 1.13.2 | Download |
-| 1.13.1 | Download |
+| 1.13.2 | [Download](https://drive.google.com/file/d/1J2lMf9nZDXEEgxJk8wt_6JQAQbOjEBoy/view?usp=sharing) | Installateur officiel |
+| 1.13.1 | [Download](https://drive.google.com/file/d/168paA3UEdA40s7E0WlOAOwTwW6csyLOs/view?usp=sharing) | Archive officielle |
 | 1.13.0 | [Download](https://drive.google.com/file/d/16Qza5jbP9Jxyi0yCp7_4lfooK5b5I_-x/view?usp=sharing) | Installateur officiel |
 | 1.12.0 | [Download](https://drive.google.com/file/d/1PIqFoc0uvc_3AVmnAFgJRZeNqAnhsUB2/view?usp=sharing) | Archive officiel du backup de fileplanet (merci à Spriingy) |
-| 1.11.1 | Download |
+| 1.11.1 | [Download](https://drive.google.com/file/d/17TvBA2uW_Xr5B-iFWZj5qoLwCGzcaxkf/view?usp=sharing) | Archive windows officielle |
 | 1.11.0 | Download |
-| 1.10.0 | [Download](https://drive.google.com/file/d/1-SUR22vNXLfgBSnONr72RFLYV8oaBNmr/view?usp=sharing) | Archive sit mac officielle [Version zip](https://drive.google.com/file/d/1U_cURmy7-YZIP9LGlLU1C7OvVQL2a46r/view?usp=sharing) |
+| 1.10.0 | [Download](https://drive.google.com/file/d/1HE8BIgTYYKeuIbkZS6tbMlJlFN9vbLqI/view?usp=sharing) | Archive officielle (version mac disponible sur le partage google drive) |
 | 1.9.1 | [Download](https://drive.google.com/file/d/1Kzfn4AIV6aXot-yMzeXIWwhR0peA1cm_/view?usp=sharing) | Archive officielle de la version windows | 
 | 1.9.0 | Download |
 | 1.8.0 | Download |
@@ -234,12 +234,9 @@ Il me manque encore les clients suivant
 - 1.7
 - 1.8
 - 1.9.0
-- 1.11.0 et 1.11.1
-- 1.13.1 et 1.13.2
-- 1.14.0 1.14.1 1.14.2
-- 1.15 (toutes les versions beta et officielles de 1.15.0 à 1.15.3)
-- 1.16 betas et 1.16.3 et 1.16.4 version installer
-- 1.18.0 et 1.18.1 version zip et installer
+- 1.11.0
+- 1.16.0 et 1.16.1 betas
+- 1.18.0
 - 1.22 zip ou installer
 - 1.26 zip
 - 1.27.1 zip
@@ -250,3 +247,7 @@ Il me manque encore les clients suivant
 ## Contribuer
 
 Pour contribuer, vous pouvez m'envoyer les clients ou fichier manquant via twiter @loonaire, via Discord: @loonaire et l'adresse mail du Google Drive: loonairefr@gmail.com.
+
+## Remerciements
+
+Enorme merci à Xango alias Nhysi pour les versions de la 1.9.1 à 1.18.1
