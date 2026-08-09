@@ -59,11 +59,11 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 1.16.0 (beta) | - | Download | |
 | 1.15.4 | 26 octobre 2006 | [Download](https://drive.google.com/file/d/115OWwoWGIQNUMwt_dxr7saSpnxSSdVf-/view?usp=sharing) | Installateur officiel, [origine du fichier](https://archive.org/details/MBHH07) |
 | 1.15.3 | 24 octobre 2006 | [Download](https://drive.google.com/file/d/1ipNorEovdyLZTRgTnzBUdX7hNGsiebOC/view?usp=sharing) | Installateur officiel |
-| 1.15.2 | 3 octobre 2006\* | [Download](https://drive.google.com/file/d/1Ym9dO2Su586-XGJqi4_34riSSE3oZTxz/view?usp=sharing) | Installateur officiel |
-| 1.15.1 Beta | - | [Download](https://drive.google.com/file/d/1ttHbnB6J7shbhC15QUtb8ayc1MwUVtyB/view?usp=sharing) | Installateur officiel |
-| 1.15.0 Beta | - | [Download](https://drive.google.com/file/d/1lSbijp9uUIZXd4SUn45xKmsLM31XX3YZ/view?usp=sharing) | Installateur officiel |
+| 1.15.2 | 3 octobre 2006 | [Download](https://drive.google.com/file/d/1Ym9dO2Su586-XGJqi4_34riSSE3oZTxz/view?usp=sharing) | Installateur officiel |
+| 1.15.1 Beta | 28-29 septembre 2006 | [Download](https://drive.google.com/file/d/1ttHbnB6J7shbhC15QUtb8ayc1MwUVtyB/view?usp=sharing) | Installateur officiel |
+| 1.15.0 Beta | 26 septembre 2006 | [Download](https://drive.google.com/file/d/1lSbijp9uUIZXd4SUn45xKmsLM31XX3YZ/view?usp=sharing) | Installateur officiel |
 | 1.14.2 | 5 septembre 2006 | [Download](https://drive.google.com/file/d/1HikxvPT6dD-LMehJx0EJMzEgkRl26dWX/view?usp=sharing) | Installateur officiel |
-| 1.14.1 | 19 juillet 2006 | [Download](https://drive.google.com/file/d/1WxevWbduwM6knrtaaPW6bGn2xTDafrMx/view?usp=sharing) | Installateur officiel |
+| 1.14.1 | 18 juillet 2006 | [Download](https://drive.google.com/file/d/1WxevWbduwM6knrtaaPW6bGn2xTDafrMx/view?usp=sharing) | Installateur officiel |
 | 1.14.0 | 11 juillet 2006 | [Download](https://drive.google.com/file/d/1eC287NlX8lr-80IObnTav67qyPNOqEiG/view?usp=sharing) | Installateur officiel |
 
 | Version | Date | Lien | Méthode d'obtention |
