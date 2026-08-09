@@ -88,14 +88,16 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 1.4.0 | 15 décembre 2004 | Download | |
 | 1.3.1 | 23 novembre 2004 | Download | |
 | 1.3.0 | 15 novembre 2004 | Download | |
-| 1.2.1 | 18 octobre 2004 | Download | |
-| 1.1.0 | 20 septembre 2004 | Download | |
+| 1.2.1 | 29 octobre 2004 | Download | |
+| 1.2.0 | 18 octobre 2004 | Download | |
+| 1.1.0 | 11 octobre 2004 | Download | |
 | 1.0.0 | 23 août 2004 | [Download](https://drive.google.com/file/d/1t_CUHDqcDQlRhrwTknE10OyTbBPUvDKC/view?usp=sharing) | Installateur officiel |
 
 | Version | Date | Lien | Méthodes d'obtention |
 | - | - | - | - |
-| 17.2b | 5 août 2004 | Download | |
-| 17.1b | Inconnue (possiblement 31 juillet 2004) | Download | |
+| 17.2b | 4 août 2004 | Download | |
+| 17.1b | 30 juillet 2004 | Download | |
+| 17b | Inconnue | Download | |
 | 16b | 6 juillet 2004 | Download | |
 | 15b | 5 juillet 2004 | Download | |
 | 14b | Jamais sortie | Download | |
@@ -115,7 +117,6 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 2b | 28 octobre 2003 | Download | |
 | 1b | 15 octobre 2003 | Download | |
 
-\* Sur Dofus History la 1.15.2 est notée « 3 octobre 2005 » ; corrigé ici en **2006** (cohérent avec le correctif serveur du 06/10/06 et la chronologie 1.14 → 1.15).
 
 ## Lien vers le google drive
 
@@ -152,8 +153,10 @@ Il me manque encore les clients suivant
 - v6b
 - v8b
 - v9b et v9.1b
+- v17b (je ne sais pas si elle est vraiment sortie)
 
 ### Versions 1.0
+- 1.2.1
 - 1.3
 - 1.4
 - 1.5
