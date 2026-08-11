@@ -111,7 +111,6 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 7b | 25 février 2004 | [Download](https://drive.google.com/file/d/1VondeuIuSy2ibxwgV2JydHQv48DkOCYO/view?usp=sharing) | Installateur officiel |
 | 6b | 27 janvier 2004 | Download | |
 | 5b | 13 janvier 2004 | [Download](https://drive.google.com/file/d/1CELUa7HmUEk8q1DtY8YSMfRFy7kRl7Ae/view?usp=sharing) | Installateur officiel |
-| 5b | 13 janvier 2004 | Download | |
 | 4b | 22 décembre 2003 | Download | |
 | 3b | Inconnue | Download | |
 | 2b | 28 octobre 2003 | Download | |
@@ -167,11 +166,11 @@ Il me manque encore les clients suivant
 - 1.11.0
 - 1.16.0 et 1.16.1 betas
 - 1.18.0
+- 1.18.3 beta
 - 1.22 zip ou installer
-- 1.26 zip
 - 1.27.1 zip
 - 1.28 zip
-- toutes les versions 1.2x beta
+- toutes les versions 1.1x et 1.2x beta
 
 
 ## Contribuer
