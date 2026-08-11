@@ -36,7 +36,7 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 1.28.0 | 15 juillet 2009 | Download | |
 | 1.27.1 | 13 mai 2009 | Download | |
 | 1.27.0 | 7 avril 2009 | [Download](https://drive.google.com/file/d/1llxmkK5aqV2FsqhsxPE_hgzDHot0tKzu/view?usp=sharing) | Client Mac/linux officiel |
-| 1.26.0 | 16 décembre 2008 | Download | |
+| 1.26.0 | 16 décembre 2008 | [Download](https://drive.google.com/file/d/18EjBkAiJtBFRmo2BDR8PRdPbSj0ZEP8p/view?usp=sharing) | Client officiel Multiplateforme basé sur le zip fourni par le magasine level up!, cd disponible [ici](https://archive.org/details/levelup-n12) le fichier contient les fichiers de l'uplauncher pour mettre à jour depuis la 1.25 ainsi que la 1.25 zip |
 | 1.25.0 | 23 septembre 2008 | [Download](https://drive.google.com/file/d/1EQdgG7gDzoKfRNw3aneXqfPigl6XWgS9/view?usp=sharing) | Zip Mac OS officiel (fichier extrait du cd du magazine Mac Format UK 202, disponible sur archive.org ou [ici](https://discmaster.textfiles.com/search?q=dofus) |
 | 1.24.0 | 17 juin 2008 | [Download](https://drive.google.com/file/d/1Q-f_gZ2WefGzSRoJC8aZoFdxzOU6mnF1/view?usp=sharing) | Installateur officiel |
 | 1.23.0 | 15 mars 2008 | [Download](https://drive.google.com/file/d/1nTRvM4co8qVqjYkB6UjRw-GAp-apFlB6/view?usp=sharing) | Installateur officiel |
