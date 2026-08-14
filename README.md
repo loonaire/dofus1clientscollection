@@ -148,7 +148,7 @@ Il me manque encore les clients suivant
 - v2b
 - v3b
 - v4b
-- v5bb
+- v5b
 - v6b
 - v8b
 - v9b et v9.1b
