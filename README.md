@@ -32,8 +32,8 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | Version | Date | Lien | Méthode d'obtention |
 | - | - | - | - |
 | 1.29.1 | 15 décembre 2009 | [Download](https://drive.google.com/file/d/14dbJskSyNN6tSnNO6V5bSJDPjOphvJZN/view?usp=sharing) | Paquet linux .deb officiel, contient .exe, [version extraite du paquet](https://drive.google.com/file/d/13PbVViP35gPYdZ7L6F_tHtW1WNTUSHly/view?usp=sharing) |
-| 1.29.0 | 29 septembre 2009 | [Download](https://drive.google.com/file/d/1J_RR1D0rjo3YiRl6mxFclCke07Dl9bSF/view?usp=sharing) | Archive linux/Mac officelle |
-| 1.28.0 | 15 juillet 2009 | Download | |
+| 1.29.0 | 29 septembre 2009 | [Download](https://drive.google.com/file/d/1J_RR1D0rjo3YiRl6mxFclCke07Dl9bSF/view?usp=sharing) | Archive Mac/linux officielle |
+| 1.28.0 | 15 juillet 2009 | [Download](https://drive.google.com/file/d/1AlEII2X7IuL_5UkeA33CU9_zysnuNzLz/view?usp=sharing) | Archive Mac/linux officielle |
 | 1.27.1 | 13 mai 2009 | Download | |
 | 1.27.0 | 7 avril 2009 | [Download](https://drive.google.com/file/d/1llxmkK5aqV2FsqhsxPE_hgzDHot0tKzu/view?usp=sharing) | Client Mac/linux officiel |
 | 1.26.0 | 16 décembre 2008 | [Download](https://drive.google.com/file/d/18EjBkAiJtBFRmo2BDR8PRdPbSj0ZEP8p/view?usp=sharing) | Client officiel Multiplateforme basé sur le zip fourni par le magasine level up!, cd disponible [ici](https://archive.org/details/levelup-n12) le fichier contient les fichiers de l'uplauncher pour mettre à jour depuis la 1.25 ainsi que la 1.25 zip |
@@ -168,7 +168,6 @@ Il me manque encore les clients suivant
 - 1.18.3 beta
 - 1.22 zip ou installer
 - 1.27.1 zip
-- 1.28 zip
 - toutes les versions 1.1x et 1.2x beta
 
 
