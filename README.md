@@ -105,7 +105,7 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 16b | 6 juillet 2004 | [Download](https://drive.google.com/file/d/1K2bnRYD7VaDCKUCPCLYxztnDX6J64DDp/view?usp=sharing) | Installateur officiel |
 | 15b | 5 juillet 2004 | [Download](https://drive.google.com/file/d/1xu4y4tR9vYeKOtRd6CNxd0XpZfUH_GCO/view?usp=sharing) | Installateur officiel |
 | 14b | Jamais sortie | Download | |
-| 13.1b | | |
+| 13.1b | 1 juin 2004 | [Download](https://drive.google.com/file/d/1LrcCNJ8SDQ7DRPYdk8tBhlO4qH_Lo_Yy/view?usp=sharing) | Obtenu avec la version v13b extraite et application du patch v13b et vers13.1b disponible [ici](https://drive.google.com/file/d/1kiVROSUaf2-NE3zt92wtxU1pRO2NwyST/view?usp=sharing)|
 | 13b | 28 mai 2004 | [Download](https://drive.google.com/file/d/1d4KFLBRHdMfsm4GWn-pKeKPrRwNMl7TZ/view?usp=sharing) | Installateur officiel |
 | 12b | 12 mai 2004 | [Download](https://drive.google.com/file/d/1-Ppd9pdBBghbX35qWAxJXEi1hFlVO5EJ/view?usp=sharing) | Installateur officiel |
 | 11b | 5 mai 2004 | [Download](https://drive.google.com/file/d/1oL_LDLoUw00rbmKG3IzE0usB5E__A1fT/view?usp=sharing) | Installateur officiel |
