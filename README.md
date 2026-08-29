@@ -72,20 +72,24 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 | 1.13.1 | 18 mars 2006 | [Download](https://drive.google.com/file/d/168paA3UEdA40s7E0WlOAOwTwW6csyLOs/view?usp=sharing) | Archive officielle |
 | 1.13.0 | 14 mars 2006 | [Download](https://drive.google.com/file/d/16Qza5jbP9Jxyi0yCp7_4lfooK5b5I_-x/view?usp=sharing) | Installateur officiel |
 | 1.12.0 | 22 février 2006 | [Download](https://drive.google.com/file/d/1PIqFoc0uvc_3AVmnAFgJRZeNqAnhsUB2/view?usp=sharing) | Archive officiel du backup de fileplanet (merci à Spriingy) |
-| 1.11.1 | - | [Download](https://drive.google.com/file/d/17TvBA2uW_Xr5B-iFWZj5qoLwCGzcaxkf/view?usp=sharing) | Archive windows officielle |
+| 1.11.1 | 21 décembre 2005 | [Download](https://drive.google.com/file/d/17TvBA2uW_Xr5B-iFWZj5qoLwCGzcaxkf/view?usp=sharing) | Archive windows officielle |
 | 1.11.0 | 20 décembre 2005 | Download | |
 | 1.10.0 | 25 octobre 2005 | [Download](https://drive.google.com/file/d/1HE8BIgTYYKeuIbkZS6tbMlJlFN9vbLqI/view?usp=sharing) | Archive officielle (version mac disponible sur le partage google drive) |
 | 1.9.1 | 2 septembre 2005 | [Download](https://drive.google.com/file/d/1Kzfn4AIV6aXot-yMzeXIWwhR0peA1cm_/view?usp=sharing) | Archive officielle de la version windows |
-| 1.9.0 | 1 septembre 2005 | Download | |
-| 1.8.0 | 20 juillet 2005 | Download | |
+| 1.9.0 | 1 septembre 2005 | [Download](https://drive.google.com/file/d/1tzfogfghkum5k5qSCks5alrjybPu11l4/view?usp=sharing) | Archive officielle |
+| 1.8.0 | 19 juillet 2005 | [Download](https://drive.google.com/file/d/1zmoOPRPBJ8uKn_fWbO5VrmVtBsnra_YN/view?usp=sharing) | Archive officielle |
+| 1.7.1 | 12 juillet 2005 | [Download](https://drive.google.com/file/d/1K52jVEhd0pOwfuWGVFjPniIkrf-JNUtQ/view?usp=sharing) | Archive officelle |
 | 1.7.0 | 28 juin 2005 | Download | |
-| 1.6.0 | 19 avril 2005 | Download | |
+| 1.6.3 | 2 juin 2005 | [Download](https://drive.google.com/file/d/1JFwW_XoM25shqx9aBM8NdWodaQckx7IJ/view?usp=sharing) | Archive officielle |
+| 1.6.2 | avril/mai 2005 | Download | |
+| 1.6.1 | avril/mai 2005 | Download | |
+| 1.6.0 | 19 avril 2005 | [Download](https://drive.google.com/file/d/1WosFisnMQ3i0YFkO9iiLGD4akmE3dDB1/view?usp=sharing) | Archive officielle |
 | 1.5.2 | 2 mars 2005 | Download | |
-| 1.5.1 | 1 mars 2005 | Download | |
-| 1.5.0 | 8 février 2005 | Download | |
+| 1.5.1 | 1 mars 2005 | [Download](https://drive.google.com/file/d/1C6OxsjZxXAspdBMpe1zMa0iooVpMwZA4/view?usp=sharing) | Archive officielle |
+| 1.5.0 | 8 février 2005 | [Download](https://drive.google.com/file/d/1zldZKIIlLVKP32n2VpowfXeOX3pKwbuU/view?usp=sharing) | Archive officielle |
 | 1.4.2 | 20 décembre 2004 | Download | |
 | 1.4.1 | 17 décembre 2004 | Download | |
-| 1.4.0 | 15 décembre 2004 | Download | |
+| 1.4.0 | 15 décembre 2004 | [Download](https://drive.google.com/file/d/1hUlnC7c0P-jV0XTd7YL-hzc07bvQsqHP/view?usp=sharing) | Archive officielle |
 | 1.3.1 | 23 novembre 2004 | Download | |
 | 1.3.0 | 15 novembre 2004 | Download | |
 | 1.2.1 | 29 octobre 2004 | Download | |
@@ -95,16 +99,17 @@ Les dates de sortie sont reprises du [tableau des changelogs Dofus History](http
 
 | Version | Date | Lien | Méthodes d'obtention |
 | - | - | - | - |
-| 17.2b | 4 août 2004 | Download | |
-| 17.1b | 30 juillet 2004 | Download | |
-| 17b | Inconnue | Download | |
-| 16b | 6 juillet 2004 | Download | |
-| 15b | 5 juillet 2004 | Download | |
+| 17.2b | 4 août 2004 | [Download](https://drive.google.com/file/d/1tqwYK_6S1MvREXfzVl9roSnf6GwRIfZ2/view?usp=sharing) | Installateur officiel |
+| 17.1b | 30 juillet 2004 | [Download](https://drive.google.com/file/d/1aVhNu9taPHKg-kAlmub2OkX_JnIVeeno/view?usp=sharing) | Installateur officiel |
+| 17b | 30 juillet 2004 | [Download](https://drive.google.com/file/d/1ujLA73fjtqHtUAEM2WvxxLafEsF8Nrwm/view?usp=sharing) | Archive officielle |
+| 16b | 6 juillet 2004 | [Download](https://drive.google.com/file/d/1K2bnRYD7VaDCKUCPCLYxztnDX6J64DDp/view?usp=sharing) | Installateur officiel |
+| 15b | 5 juillet 2004 | [Download](https://drive.google.com/file/d/1xu4y4tR9vYeKOtRd6CNxd0XpZfUH_GCO/view?usp=sharing) | Installateur officiel |
 | 14b | Jamais sortie | Download | |
-| 13b | 28 mai 2004 | Download | |
-| 12b | 12 mai 2004 | Download | |
-| 11b | 5 mai 2004 | Download | |
-| 10b | 7 avril 2004 | Download | |
+| 13.1b | | |
+| 13b | 28 mai 2004 | [Download](https://drive.google.com/file/d/1d4KFLBRHdMfsm4GWn-pKeKPrRwNMl7TZ/view?usp=sharing) | Installateur officiel |
+| 12b | 12 mai 2004 | [Download](https://drive.google.com/file/d/1-Ppd9pdBBghbX35qWAxJXEi1hFlVO5EJ/view?usp=sharing) | Installateur officiel |
+| 11b | 5 mai 2004 | [Download](https://drive.google.com/file/d/1oL_LDLoUw00rbmKG3IzE0usB5E__A1fT/view?usp=sharing) | Installateur officiel |
+| 10b | 7 avril 2004 | [Download](https://drive.google.com/file/d/1vIktdLFt-P_xJi9AujTaZ81HGxfPudHj/view?usp=sharing) | Installateur officiel |
 | 9.1b | 12 mars 2004 | Download | |
 | 9b | 10 mars 2004 | Download | |
 | 8b | 3 mars 2004 (à confirmer) | Download | |
@@ -151,17 +156,17 @@ Il me manque encore les clients suivant
 - v6b
 - v8b
 - v9b et v9.1b
-- v17b (je ne sais pas si elle est vraiment sortie)
 
 ### Versions 1.0
 - 1.2.1
-- 1.3
-- 1.4
-- 1.5
-- 1.6
-- 1.7
-- 1.8
-- 1.9.0
+- 1.3.0
+- 1.3.1
+- 1.4.1
+- 1.4.2
+- 1.5.2
+- 1.6.1
+- 1.6.2
+- 1.7.0
 - 1.11.0
 - 1.16.0 et 1.16.1 betas
 - 1.18.0
